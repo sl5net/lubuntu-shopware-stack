@@ -1,6 +1,7 @@
 # lubuntu-shopware-stack
 lubuntu-shopware-stack
 
+lubuntu-shopware-stack.ova (parts < 25mb ). click the exe to glue it.
 
 below you see a snapshot of https://piratenpad.de/p/lubuntu-bitnami-shopware from 20.08.2018 06:50
 
