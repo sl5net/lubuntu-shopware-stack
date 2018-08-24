@@ -1,12 +1,17 @@
 # lubuntu-shopware-stack
 lubuntu-shopware-stack
 
+These materials are provides "as is" without warranty of any kind, either expressed or implied
+
+user = pas = se (nearly everywhere)
+db user/pas please see conig.php (in phpmyadmin)
+
+
 lubuntu-shopware-stack.ova (parts < 25mb ). click the exe to glue it.
 
 below you see a snapshot of https://piratenpad.de/p/lubuntu-bitnami-shopware from 20.08.2018 06:50
 
 
-These materials are provides "as is" without warranty of any kind, either expressed or implied
 
 youre here:
     https://piratenpad.de/p/lubuntu-bitnami-shopware
