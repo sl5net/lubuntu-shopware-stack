@@ -4,6 +4,7 @@ lubuntu-shopware-stack
 These materials are provides "as is" without warranty of any kind, either expressed or implied
 
 user = pas = se (nearly everywhere. e.g.: FTP, backend, lubuntu)
+
 db user/pas please see conig.php (in phpmyadmin)
 
 
